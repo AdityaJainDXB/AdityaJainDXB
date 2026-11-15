@@ -75,8 +75,8 @@ Hey, I'm **Aditya**: a builder who loves turning ideas into polished apps. I foc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaJainDXB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainDXB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://readme-stats-seven-gilt.vercel.app/api?username=AdityaJainDXB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://readme-stats-seven-gilt.vercel.app/api/top-langs/?username=AdityaJainDXB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=AdityaJainDXB&theme=tokyonight&hide_border=true&background=0d1117" />
 
@@ -84,14 +84,14 @@ Hey, I'm **Aditya**: a builder who loves turning ideas into polished apps. I foc
 
 ---
 
-## 🏆 Achievements
+## 🏆 GH Achievements
 
 <div align="center">
 
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark_x2-0A84FF?style=flat-square)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-F7DF1E?style=flat-square&labelColor=222)
-![Pair Extraordinaire](https://img.shields.io/badge/👯_Pair_Extraordinaire-8957e5?style=flat-square)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-f85149?style=flat-square)
+<img src="assets/pull-shark.png" width="90" alt="Pull Shark x2" title="Pull Shark x2" />
+<img src="assets/quickdraw.png" width="90" alt="Quickdraw" title="Quickdraw" />
+<img src="assets/pair-extraordinaire.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+<img src="assets/yolo.png" width="90" alt="YOLO" title="YOLO" />
 
 </div>
 
