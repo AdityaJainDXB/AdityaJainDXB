@@ -65,7 +65,7 @@ Hey, I'm **Aditya**: a builder who loves turning ideas into polished apps. I foc
 | [**Nexus**](https://github.com/AdityaJainDXB/Nexus) | Voice-first, on-device AI agent for macOS. Organizes files and runs plain-English automations, offline | Swift |
 | [**Token-Trail**](https://github.com/AdityaJainDXB/Token-Trail) | Shows your Claude Code usage as a profile page on the Mac | JavaScript |
 | [**Tab-Therapist**](https://github.com/AdityaJainDXB/Tab-Therapist) | Tames tab chaos | JavaScript |
-| [**Athenaeum**](https://github.com/AdityaJainDXB/Athenaeum) | C++ project | C++ |
+| [**Athenaeum**](https://github.com/AdityaJainDXB/Athenaeum) | Open-source ESP32-S3 e-ink dev board with custom PCB and firmware: downloads free books over Wi-Fi, reads them offline, saves notes, and runs a NASA APOD viewer | C++, ESP32-S3 |
 
 </div>
 
