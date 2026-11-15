@@ -75,8 +75,6 @@ Hey, I'm **Aditya**: a builder who loves turning ideas into polished apps. I foc
 
 <div align="center">
 
-<img height="170" src="https://readme-stats-seven-gilt.vercel.app/api?username=AdityaJainDXB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://readme-stats-seven-gilt.vercel.app/api/top-langs/?username=AdityaJainDXB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=AdityaJainDXB&theme=tokyonight&hide_border=true&background=0d1117" />
 
