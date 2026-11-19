@@ -34,7 +34,6 @@ Hey, I'm **Aditya**: a builder who loves turning ideas into polished apps. I foc
 ![Startups](https://img.shields.io/badge/%23Startups-ff6b35?style=for-the-badge)
 ![Product](https://img.shields.io/badge/%23ProductDesign-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Motorsport](https://img.shields.io/badge/%23Motorsport-E10600?style=for-the-badge)
-![Tennis](https://img.shields.io/badge/%23Tennis-b5e61d?style=for-the-badge&labelColor=222)
 ![Building](https://img.shields.io/badge/Locked_In-⚛️-00D4FF?style=for-the-badge&labelColor=222)
 
 ---
